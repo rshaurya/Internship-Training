@@ -1,2 +1,2 @@
-# Internship-Training
+# Internship Training
 Coding progress during internship
